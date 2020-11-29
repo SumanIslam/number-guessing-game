@@ -5,6 +5,9 @@ body, html {
 .container {
   max-width: 1000px;
   margin: auto;
+  position: absolute;
+  top: 10%;
+  left: 30%;
 }
 h1 {
   font-size: 3.2rem;
